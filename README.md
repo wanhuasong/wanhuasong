@@ -1,18 +1,15 @@
-### Hi there 👋
+### GitHub
 
-<!--
-**wanhuasong/wanhuasong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account is only used for **work**,
+there is the second GitHub account used to submit my personal projects,
+it's [K8sCat](https://github.com/k8scat) and welcome to star my personal projects!
 
-Here are some ideas to get you started:
+### Blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And I have maintained a static blog site to record my development: [https://k8scat.com](https://k8scat.com)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wanhuasong&show_icons=true&hide=issues" alt="Noah's github stats" />
+### Contact
+
+This is my personal email: contact@aicoder.io
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=k8scat&show_icons=true&hide=issues" alt="K8sCat's github stats" />
